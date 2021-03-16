@@ -1,0 +1,229 @@
+@media screen and (min-width:300px){
+body{
+  padding-top:50px;
+  z-index: 0;
+}
+h2{
+  margin: 0px auto;
+  padding: 20px 2px 15px 0px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 00px;
+  background-color: ;
+  min-height: 50px;
+}
+.jumbotron{
+  margin: 0px auto;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  letter-spacing: 5px;
+  border-bottom: 1px ridge;
+
+}
+.TG-nav{
+    color: #cc0000;
+    font-size: 25px;
+}
+.sixty-nav{
+  color: floralwhite;
+  font-size: 20px;
+  align-content:top;
+  vertical-align: super;
+}
+h1{
+  font-size: 40px;
+  font-weight:300px ;
+}
+.row-header{
+   font-family: fantasy;
+   font-size: 80px;
+}
+.fhead{
+  padding-left: 120px;
+}
+.row-footer{
+  min-height: 40px;
+  background-color: lightblue;
+  padding-bottom: 20px;
+}
+.btn{
+  font-size: 20px;
+}
+.TG{
+  color: #cc0000;
+  font-size: 70px;
+  font-family: sans-serif;
+}
+.sixty{
+  color: #cc0000;
+  font-size: 40px;
+  align-content:top;
+  vertical-align: super;
+}
+.next{
+  color: red;
+}
+.row-content{
+  min-height: 200px;
+  line-height: 50px;
+}
+.mob-spec{
+  padding-left: 12px;
+}
+.spec-head{
+  font-weight: 400;
+  color: #708090;
+
+}
+.spec-ans{
+  font-size: 18px;
+  font-weight: 400;
+}
+h3{
+  margin-top: 20px;
+  background-color: green;
+  color: floralwhite;
+  border-radius:4px;
+  padding-left: 4px;
+  font-size: 25px;
+  max-width: 120px;
+}
+h5{
+  margin: 0px auto;;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  font-weight: 800;
+  font-family: sans-serif;
+  font-size: 22px;
+  color: #8cc9de;
+  background:;
+}
+.price{
+  padding-top: 15px;
+  font-size: 18px;
+}
+.exp{
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-top:px;
+}
+.breadcrumb{
+  padding-left: 100px;
+}
+
+
+}
+@media screen and (min-width:1000px) {
+body{
+  margin-top:10px;
+}
+h2{
+  margin: 0px auto;
+  padding: 20px 2px 15px 20px;
+  align-content: center;
+  font-family: fantasy;
+}
+.jumbotron{
+  margin: 0px auto;
+  background-color: white;
+  padding: 10px 10px 20px 10px;
+  border-bottom: 1px ridge;
+  max-width: 100%;
+  text-align: center;
+  font-size: 120px;
+  letter-spacing: 10px;
+
+}
+.TG-nav{
+    color: #cc0000;
+    font-size: 30px;
+}
+.sixty-nav{
+  color: #cc0000;
+  font-size: 20px;
+  align-content:top;
+  vertical-align: super;
+}
+.breadcrumb{
+  padding-left: 600px;
+}
+.exp{
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: #708090;
+}
+h1{
+  font-size: 100px;
+  font-family: fantasy;
+}
+.row-header{
+   color: ;
+   font-family: fantasy;
+   font-weight: lighter;
+}
+.footer-head{
+  text-align: center;
+}
+.fhead{
+  padding-left: 650px;
+  padding-bottom: px;
+}
+.row-footer{
+  min-height: 40px;
+  background-color: lightblue;
+  padding-bottom: 20px;
+}
+.TG{
+  color: #cc0000;
+  font-size: 120px;
+}
+.sixty{
+  color: #cc0000;
+  font-size: 50px;
+  vertical-align: super;
+}
+.next{
+  color: red;
+}
+.row-content{
+  min-height: 200px;
+  line-height: 50px;
+}
+.mob-spec{
+  padding-left: 12px;
+}
+.spec-head{
+  font-weight: 400;
+}
+.spec-ans{
+  font-size: 20px;
+  font-weight: 400;
+  color: black;
+}
+.list-head{
+  background-color: lightblue;
+}
+h3{
+  margin-top: 20px;
+  background-color: green;
+  color: floralwhite;
+  max-width: 360px;
+  border-radius:4px;
+  padding-left: 4px;
+}
+h5{
+  padding-top: 10px;
+  padding-left: 0px;
+  font-weight: bold;
+  font-size: 25px;
+font-variant: small-caps;
+border-radius: px;
+color: black;
+}
+.exp{
+  font-weight: 2px;
+}
+
+}

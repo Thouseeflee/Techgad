@@ -1,0 +1,206 @@
+@media screen and (min-width:300px){
+  .jumbotron{
+    margin: 0px auto;
+    background-color: ;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: ;
+    border-bottom: 1px ridge;
+
+}
+h1{
+  font-size: 40px;
+  font-weight:300px ;
+  background-color: ;
+}
+.TG{
+  color: #cc0000;
+  font-size: 70px;
+  font-family: sans-serif;
+}
+.sixty{
+  color: #cc0000;
+  font-size: 50px;
+  align-content:top;
+  vertical-align: super;
+}
+.sixty-nav{
+  color: #cc0000;
+  font-size: 10px;
+  align-content:top;
+  vertical-align: super;
+}
+.spec-title{
+  margin: 0px auto;;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  font-weight: 800;
+  font-family: sans-serif;
+  font-size: 22px;
+  color: #8cc9de;
+  background:;
+}
+.spec-head{
+  font-weight: 400;
+  color: #708090;
+  border-bottom: 1px ridge;
+}
+.spec-ans{
+padding-left: 30px;
+border-bottom: 1px ridge;
+font-size: 18px;
+font-weight: 400;
+}
+.ps{
+  font-weight: 400;
+  color: #708090;
+  border-bottom: 1px ridge;
+}
+.pc{
+  padding-left: 0px;
+  border-bottom: 1px ridge;
+  font-size: 18px;
+  font-weight: 400;
+}
+.row-footer{
+  min-height: 40px;
+  background-color: lightblue;
+  padding-bottom: 20px;
+}
+.fhead{
+  padding-left: 120px;
+}
+table{
+  margin-top: 0px auto;
+  line-height: 60px;
+  margin-left: 0px;
+  border-bottom:;
+
+}
+.footer-head{
+  text-align: center;
+}
+.TG-nav{
+    color: #cc0000;
+    font-size: 25px;
+}
+.sixty-nav{
+  color: floralwhite;
+  font-size: 20px;
+  align-content:top;
+  vertical-align: super;
+}
+body{
+  margin-top: 50px;
+}
+.breadcrumb{
+  line-height: 30px;
+  padding-left: 40px;
+}
+.SE-h1{
+  font-size: 30px;
+}
+
+}
+@media only screen and (min-width: 1000px){
+  .jumbotron{
+    margin: 0px auto;
+    background-color: white;
+    padding: 10px 10px 20px 10px;
+    border-bottom: 1px ridge;
+    max-width: 100%;
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: 10px;
+
+}
+h1{
+    font-size: 100px;
+    font-family: fantasy;
+}
+.TG{
+    color: #cc0000;
+    font-size: 120px;
+}
+.TG-nav{
+    color: #cc0000;
+    font-size: 30px;
+}
+.sixty-nav{
+  color: #cc0000;
+  font-size: 20px;
+  align-content:top;
+  vertical-align: super;
+}
+body{
+margin-top: 35px;
+background-color:;
+
+}
+.img-se{
+  width: 1000;
+}
+.SE-h1{
+  font-size: 40px;
+  padding: 15px 0px 15px 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.SE-h2{
+  font-size: 30px;
+  padding: 15px 0px 15px 25px;
+  font-weight: 500px;
+  font-family: monospace;
+  color: #708090;
+}
+.spec-title{
+  font-size: 22px;
+  font-family: sans-serif;
+  background-color: ;
+}
+.spec-head{
+  font-size: 20px;
+  font-family: serif;
+  color: #708090;
+  border-bottom: 1px ridge;
+}
+.spec-ans{
+ font-size: 22px;
+ padding-left: 65px;
+ font-weight: 400;
+ border-bottom: 1px ridge;
+ line-height: 40px;
+}
+.spec-color{
+  background-color: ;
+  border-radius: 10px;
+
+}
+table{
+  margin-top: 0px auto;
+  line-height: 65px;
+  margin-left: 20px;
+}
+.row-content{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.row-footer{
+  min-height: 40px;
+  background-color: lightblue;
+  padding-bottom: 20px;
+}
+
+.fhead{
+  padding-left: 650px;
+  padding-bottom: px;
+}
+.footer-head{
+  text-align: center;
+}
+.breadcrumb{
+  padding-left: 350px;
+}
+}
